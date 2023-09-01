@@ -1,0 +1,10 @@
+@import url("./scss/_bootstrap.scss");
+@import url("./scss/_auth.scss");
+@import url("./scss/_todo.scss");
+ 
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
